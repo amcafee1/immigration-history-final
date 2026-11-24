@@ -14,10 +14,10 @@ student: Ava McAfee
 course: "US Immigration History, Fall 2026"
 
 # Small label on the home page card, e.g. "Village to City"
-kicker: "Place to Place"
+kicker: Germany to the United States 
 
 # One sentence that appears on the home page card and under the title
-summary: "One sentence that tells readers what your family's migration story is about."
+summary: Louise Nazar recalls her story of growing up durning World War II and her immigration to the United States years later with her late husband.
 
 # Main image: a photograph or object that introduces your family migration story.
 # Upload your image into the "images" folder next to this file, then type its file name below.
