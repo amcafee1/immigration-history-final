@@ -4,13 +4,13 @@
 #  Only change the text AFTER the colon on each line.
 #  Keep the quotation marks. Lines starting with # are notes.
 # ============================================================
-layout: essay
+layout: Immigration Story
 
 # Title of your project
-title: Allie's Project
+title: Louise Nazar's Immigration story
 
 # Your name and course (shown under the title)
-student: Allie Love 
+student: Ava McAfee
 course: "US Immigration History, Fall 2026"
 
 # Small label on the home page card, e.g. "Village to City"
